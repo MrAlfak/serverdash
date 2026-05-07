@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+robosoft_bot.sqlite3
+backup_robosoft_bot.sqlite3
+qr_codes/
+exports/
+backups/
+.git/
+.gitignore
